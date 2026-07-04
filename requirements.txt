@@ -1,1 +1,8 @@
-
+hazm
+tensorflow
+keras
+gensim
+numpy
+pandas
+matplotlib
+scikit-learn
