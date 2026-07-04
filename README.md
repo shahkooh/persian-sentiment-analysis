@@ -130,6 +130,7 @@ persian-sentiment-analysis/
 │
 ├── dataset/
 │   └── comment.csv
+│   └── stopwords.txt
 │
 ├── images/
 │
